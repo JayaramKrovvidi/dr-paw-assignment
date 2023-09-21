@@ -1,0 +1,547 @@
+{
+    "documents": [
+        {
+            "_id": {
+                "$oid": "64bc200e8b957b7b170855a8"
+            },
+            "name": "Worth Street Veterinary Center",
+            "address": "77 Worth Street #1, New York",
+            "place_id": "ChIJuXCMMCBawokR2XJGHdxSXyo",
+            "description": "",
+            "services_offered": [
+                "veterinary_care"
+            ],
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    {
+                        "$numberDouble": "-74.0055211"
+                    },
+                    {
+                        "$numberDouble": "40.7169669"
+                    }
+                ]
+            },
+            "rating": {
+                "$numberDouble": "4.8"
+            },
+            "user_ratings_total": {
+                "$numberInt": "289"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "64bc200e8b957b7b170855a9"
+            },
+            "name": "Vinegar Hill Veterinary Group",
+            "address": "57 Front Street, Brooklyn",
+            "place_id": "ChIJtcO5JTFawokRXHFRbIPCooA",
+            "description": "",
+            "services_offered": [
+                "veterinary_care"
+            ],
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    {
+                        "$numberDouble": "-73.991367"
+                    },
+                    {
+                        "$numberDouble": "40.70268009999999"
+                    }
+                ]
+            },
+            "rating": {
+                "$numberDouble": "4.6"
+            },
+            "user_ratings_total": {
+                "$numberInt": "425"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "64bc200e8b957b7b170855aa"
+            },
+            "name": "Holistic Vet, Dr. Marcie Fallek, DVM, CVA",
+            "address": "TRS, 40 Exchange Place 3rd floor, New York",
+            "place_id": "ChIJuXCMMCBawokRwtsWBzf7yLY",
+            "description": "",
+            "services_offered": [
+                "veterinary_care",
+                "health"
+            ],
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    {
+                        "$numberDouble": "-74.0102498"
+                    },
+                    {
+                        "$numberDouble": "40.7057357"
+                    }
+                ]
+            },
+            "rating": {
+                "$numberInt": "5"
+            },
+            "user_ratings_total": {
+                "$numberInt": "9"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "64bc200e8b957b7b170855ab"
+            },
+            "name": "Reade Street Animal Hospital, A Thrive Pet Healthcare Partner",
+            "address": "146 Reade Street, New York",
+            "place_id": "ChIJ4XHA-R5awokR6egH01SL2As",
+            "description": "",
+            "services_offered": [
+                "pharmacy",
+                "veterinary_care",
+                "store",
+                "health"
+            ],
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    {
+                        "$numberDouble": "-74.01001680000002"
+                    },
+                    {
+                        "$numberDouble": "40.7167263"
+                    }
+                ]
+            },
+            "rating": {
+                "$numberDouble": "4.6"
+            },
+            "user_ratings_total": {
+                "$numberInt": "85"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "64bc200e8b957b7b170855ac"
+            },
+            "name": "Tribeca Soho Animal Hospital",
+            "address": "180 6th Avenue, New York",
+            "place_id": "ChIJl4BZ5opZwokRItW4Zvbhkr8",
+            "description": "",
+            "services_offered": [
+                "pharmacy",
+                "veterinary_care",
+                "store",
+                "health"
+            ],
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    {
+                        "$numberDouble": "-74.0034852"
+                    },
+                    {
+                        "$numberDouble": "40.7260477"
+                    }
+                ]
+            },
+            "rating": {
+                "$numberDouble": "4.6"
+            },
+            "user_ratings_total": {
+                "$numberInt": "127"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "64bc200e8b957b7b170855ad"
+            },
+            "name": "Water4Dogs Rehabilitation Center",
+            "address": "77 Worth Street, New York",
+            "place_id": "ChIJuXCMMCBawokRfSAAJD1KxR8",
+            "description": "",
+            "services_offered": [
+                "veterinary_care"
+            ],
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    {
+                        "$numberDouble": "-74.0054991"
+                    },
+                    {
+                        "$numberDouble": "40.7169784"
+                    }
+                ]
+            },
+            "rating": {
+                "$numberDouble": "4.9"
+            },
+            "user_ratings_total": {
+                "$numberInt": "77"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "64bc200e8b957b7b170855ae"
+            },
+            "name": "Seaport Animal Hospital",
+            "address": "80 Beekman Street, New York",
+            "place_id": "ChIJ0elz1zxawokRRQUzMlacr84",
+            "description": "",
+            "services_offered": [
+                "pharmacy",
+                "veterinary_care",
+                "store",
+                "health"
+            ],
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    {
+                        "$numberDouble": "-74.00410409999999"
+                    },
+                    {
+                        "$numberDouble": "40.7092372"
+                    }
+                ]
+            },
+            "rating": {
+                "$numberDouble": "4.8"
+            },
+            "user_ratings_total": {
+                "$numberInt": "167"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "64bc200e8b957b7b170855af"
+            },
+            "name": "Battery Park Veterinary Hospital",
+            "address": "21 South End Avenue Ground Floor, New York",
+            "place_id": "ChIJ6-asLBBawokR6sJTySbuUxA",
+            "description": "",
+            "services_offered": [
+                "pharmacy",
+                "veterinary_care",
+                "store",
+                "health"
+            ],
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    {
+                        "$numberDouble": "-74.017798"
+                    },
+                    {
+                        "$numberDouble": "40.7081329"
+                    }
+                ]
+            },
+            "rating": {
+                "$numberDouble": "4.7"
+            },
+            "user_ratings_total": {
+                "$numberInt": "147"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "64bc200e8b957b7b170855b0"
+            },
+            "name": "CurePet",
+            "address": "Trump Building, 40 Wall Street, New York",
+            "place_id": "ChIJrxO2pRZawokRl4X-B_el-sY",
+            "description": "",
+            "services_offered": [
+                "veterinary_care",
+                "health"
+            ],
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    {
+                        "$numberDouble": "-74.0097684"
+                    },
+                    {
+                        "$numberDouble": "40.7069615"
+                    }
+                ]
+            },
+            "rating": {
+                "$numberInt": "0"
+            },
+            "user_ratings_total": {
+                "$numberInt": "0"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "64bc200e8b957b7b170855b1"
+            },
+            "name": "Brooklyn Heights Veterinary Group",
+            "address": "10 Columbia Place, Brooklyn",
+            "place_id": "ChIJL3yenkZawokRuqdqIg5ahhM",
+            "description": "",
+            "services_offered": [
+                "veterinary_care"
+            ],
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    {
+                        "$numberDouble": "-73.9986419"
+                    },
+                    {
+                        "$numberDouble": "40.6935062"
+                    }
+                ]
+            },
+            "rating": {
+                "$numberDouble": "4.9"
+            },
+            "user_ratings_total": {
+                "$numberInt": "12"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "64bc200e8b957b7b170855b2"
+            },
+            "name": "Vinegar Hill Veterinary Group",
+            "address": "10 Columbia Place, Brooklyn",
+            "place_id": "ChIJUxAHm0ZawokRlog0pE0KwcU",
+            "description": "",
+            "services_offered": [
+                "veterinary_care"
+            ],
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    {
+                        "$numberDouble": "-73.9986054"
+                    },
+                    {
+                        "$numberDouble": "40.6934961"
+                    }
+                ]
+            },
+            "rating": {
+                "$numberDouble": "4.5"
+            },
+            "user_ratings_total": {
+                "$numberInt": "47"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "64bc200e8b957b7b170855b3"
+            },
+            "name": "Biscuits & Bath - Tribeca",
+            "address": "73 Hudson Street, New York",
+            "place_id": "ChIJ_YcFDiBawokRcqjcl0nQqXM",
+            "description": "",
+            "services_offered": [
+                "veterinary_care"
+            ],
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    {
+                        "$numberDouble": "-74.00912559999999"
+                    },
+                    {
+                        "$numberDouble": "40.71831660000001"
+                    }
+                ]
+            },
+            "rating": {
+                "$numberDouble": "4.2"
+            },
+            "user_ratings_total": {
+                "$numberInt": "43"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "64bc200e8b957b7b170855b4"
+            },
+            "name": "Cooper Square Veterinary Hospital",
+            "address": "211 East 5th Street, New York",
+            "place_id": "ChIJeeIXP5tZwokR5ZQDgfhw4ic",
+            "description": "",
+            "services_offered": [
+                "veterinary_care",
+                "health"
+            ],
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    {
+                        "$numberDouble": "-73.9904637"
+                    },
+                    {
+                        "$numberDouble": "40.72757079999999"
+                    }
+                ]
+            },
+            "rating": {
+                "$numberDouble": "4.2"
+            },
+            "user_ratings_total": {
+                "$numberInt": "34"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "64bc200e8b957b7b170855b5"
+            },
+            "name": "Heart of Chelsea Veterinary Group - Lower East Side",
+            "address": "241 Eldridge Street, New York",
+            "place_id": "ChIJ-cpQE4RZwokRQphywr41TNk",
+            "description": "",
+            "services_offered": [
+                "pharmacy",
+                "veterinary_care",
+                "store",
+                "health"
+            ],
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    {
+                        "$numberDouble": "-73.98990239999999"
+                    },
+                    {
+                        "$numberDouble": "40.7226648"
+                    }
+                ]
+            },
+            "rating": {
+                "$numberDouble": "4.6"
+            },
+            "user_ratings_total": {
+                "$numberInt": "93"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "64bc200e8b957b7b170855b6"
+            },
+            "name": "Питомник британских кошек",
+            "address": "New York",
+            "place_id": "ChIJkc0PhAVbwokR333zgt1qFPQ",
+            "description": "",
+            "services_offered": [
+                "veterinary_care"
+            ],
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    {
+                        "$numberDouble": "-74.0013156"
+                    },
+                    {
+                        "$numberDouble": "40.7127146"
+                    }
+                ]
+            },
+            "rating": {
+                "$numberInt": "0"
+            },
+            "user_ratings_total": {
+                "$numberInt": "0"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "64bc200e8b957b7b170855b7"
+            },
+            "name": "Bond Vet - Financial District",
+            "address": "2 Gold Street, New York",
+            "place_id": "ChIJvemqqgpbwokRAxHrJkma7ek",
+            "description": "",
+            "services_offered": [
+                "pharmacy",
+                "veterinary_care",
+                "store",
+                "health"
+            ],
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    {
+                        "$numberDouble": "-74.0068304"
+                    },
+                    {
+                        "$numberDouble": "40.7074723"
+                    }
+                ]
+            },
+            "rating": {
+                "$numberDouble": "4.8"
+            },
+            "user_ratings_total": {
+                "$numberInt": "29"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "64bc200e8b957b7b170855b8"
+            },
+            "name": "URvet Care Tribeca",
+            "address": "200 Chambers Street, New York",
+            "place_id": "ChIJQ3dUGfNbwokRLS5qp65xBcM",
+            "description": "",
+            "services_offered": [
+                "veterinary_care"
+            ],
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    {
+                        "$numberDouble": "-74.0123802"
+                    },
+                    {
+                        "$numberDouble": "40.7167836"
+                    }
+                ]
+            },
+            "rating": {
+                "$numberDouble": "4.5"
+            },
+            "user_ratings_total": {
+                "$numberInt": "15"
+            }
+        },
+        {
+            "_id": {
+                "$oid": "64bc200e8b957b7b170855b9"
+            },
+            "name": "Village House Call Vet",
+            "address": "40 Harrison Street, New York",
+            "place_id": "ChIJ435xIh5awokRyLn0XByIQo8",
+            "description": "",
+            "services_offered": [
+                "veterinary_care"
+            ],
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    {
+                        "$numberDouble": "-74.0108824"
+                    },
+                    {
+                        "$numberDouble": "40.71908550000001"
+                    }
+                ]
+            },
+            "rating": {
+                "$numberInt": "5"
+            },
+            "user_ratings_total": {
+                "$numberInt": "29"
+            }
+        }
+    ]
+}
