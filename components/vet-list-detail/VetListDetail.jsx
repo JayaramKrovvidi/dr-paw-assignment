@@ -21,9 +21,10 @@ const VetListDetail = ({ clinic }) => {
                     </Text>
                     <View style={{ flexDirection: 'row', alignItems: 'center' }}>
                         <Rating
+                            fractions={2}
+                            startingValue={clinic.rating.$numberDouble}
                             imageSize={30}
                             readonly={true}
-                            onFinishRating={parseFloat(clinic.rating.$numberDouble)}
                             style={styles.starRatingContainer}
                         />
                         <Text>({clinic.user_ratings_total.$numberInt} Ratings)</Text>
